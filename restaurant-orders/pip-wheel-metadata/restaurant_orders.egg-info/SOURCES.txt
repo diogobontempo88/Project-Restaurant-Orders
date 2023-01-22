@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+/Users/diogo_bontempo/sd-019-b-restaurant-orders/pip-wheel-metadata/restaurant_orders.egg-info/PKG-INFO
+/Users/diogo_bontempo/sd-019-b-restaurant-orders/pip-wheel-metadata/restaurant_orders.egg-info/SOURCES.txt
+/Users/diogo_bontempo/sd-019-b-restaurant-orders/pip-wheel-metadata/restaurant_orders.egg-info/dependency_links.txt
+/Users/diogo_bontempo/sd-019-b-restaurant-orders/pip-wheel-metadata/restaurant_orders.egg-info/requires.txt
+/Users/diogo_bontempo/sd-019-b-restaurant-orders/pip-wheel-metadata/restaurant_orders.egg-info/top_level.txt
+src/analyze_log.py
+src/inventory_control.py
+src/main.py
+src/track_orders.py
